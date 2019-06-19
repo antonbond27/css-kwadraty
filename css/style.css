@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(134, 133, 125)
+}
+h1 {
+    color: white;
+    margin: 15px;
+
+}
+div{
+    width: 150px; 
+    height: 150px;
+    display: block;
+    margin-left: 35px;
+    background-color: rgb(252, 146, 7);
+
+}
